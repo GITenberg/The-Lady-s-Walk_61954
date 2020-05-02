@@ -1,0 +1,34 @@
+_repo: The-Lady-s-Walk_61954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Oliphant, Margaret Oliphant Wilson
+    - Oliphant, Mrs. Margaret
+    - Mrs. (Margaret) Oliphant
+    - Oliphant, Mrs.
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    - Olyphant, Mrs.
+    - Wilson, Margaret
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: 'Also contains the story: The Ship''s Doctor'
+gutenberg_issued: '2020-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The Lady's Walk -- The ship's doctor.
+title: The Lady's Walk
+url: http://www.gutenberg.org/ebooks/61954
